@@ -22,6 +22,8 @@ void rotateclockwise(vector<int> &arr , int k){
 
 }
 
+// Using Better Approach :- Reversing the array
+
 void rotatedclockwise(vector<int>&arr , int k){
 
     int n = arr.size();
